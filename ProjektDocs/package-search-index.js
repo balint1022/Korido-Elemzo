@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"interfacek"},{"l":"kivetel"},{"l":"main"},{"l":"modellek"},{"l":"seged"}];updateSearchResults();

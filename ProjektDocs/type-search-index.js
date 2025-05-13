@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"kivetel","l":"ErvenytelenKoridoException"},{"p":"seged","l":"FileKezelo"},{"p":"interfacek","l":"Idomero"},{"p":"main","l":"KoridoElemzo"},{"p":"modellek","l":"PalyaTipus"},{"p":"modellek","l":"Pilota"},{"p":"modellek","l":"Versenypalya"}];updateSearchResults();
