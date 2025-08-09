@@ -2,7 +2,7 @@
 
 Ez a Java projekt egy egyetemi programozási feladat keretében készült, amelyben egy egyszerű **köridő nyilvántartó és elemző rendszer** megvalósítása volt a cél. A program képes különböző versenypályákon futott köridőket rögzíteni, azokat fájlba menteni JSON és XML formátumban, valamint érvénytelen adatokat kiszűrni.
 
-## 🧠 Projekt célja
+## Projekt célja
 
 A projekt célja az volt, hogy:
 
